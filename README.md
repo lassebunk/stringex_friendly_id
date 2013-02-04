@@ -1,4 +1,5 @@
-# StringexFriendlyId
+StringexFriendlyId
+==================
 
 StringexFriendlyId combines [Stringex](https://github.com/rsl/stringex) with [FriendlyId](https://github.com/norman/friendly_id) giving you access to FriendlyId's slugging magic combined with Stringex's ingenious transliterations.
 
@@ -24,7 +25,8 @@ With StringexFriendlyId, you get URLs like these instead:
 
 Just by including this gem and using FriendlyId [like you normally would](https://github.com/norman/friendly_id#rails-quickstart).
 
-## Installation
+Installation
+------------
 
 In your *Gemfile*:
 
@@ -40,11 +42,13 @@ $ bundle install
 
 You don't need to include FriendlyId or Stringex – they will be included by StringexFriendlyId.
 
-## Usage
+Usage
+-----
 
 Just use FriendlyId [like you normally would](https://github.com/norman/friendly_id#rails-quickstart). Stringex's transliteration magic was enabled when you included the gem in your Gemfile.
 
-## Contributing
+Contributing
+------------
 
 1. Fork the repo
 2. Create a feature branch (`git checkout -b my-new-feature`)
