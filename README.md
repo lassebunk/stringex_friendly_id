@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/lassebunk/stringex_friendly_id.png)](http://travis-ci.org/lassebunk/stringex_friendly_id)
+
 StringexFriendlyId
 ==================
 
