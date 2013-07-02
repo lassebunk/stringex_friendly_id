@@ -3,7 +3,7 @@
 StringexFriendlyId
 ==================
 
-StringexFriendlyId combines [Stringex](https://github.com/rsl/stringex) with [FriendlyId](https://github.com/norman/friendly_id) giving you access to FriendlyId's slugging magic combined with Stringex's ingenious transliterations.
+StringexFriendlyId combines [Stringex](https://github.com/rsl/stringex) with [FriendlyId](https://github.com/FriendlyId/friendly_id) giving you access to FriendlyId's slugging magic combined with Stringex's ingenious transliterations.
 
 With FriendlyId standalone, you normally get URLs like:
 
@@ -25,7 +25,7 @@ With StringexFriendlyId, you get URLs like these instead:
 "tell your readers 你好" => "tell-your-readers-ni-hao"
 ```
 
-Just by including this gem and using FriendlyId [like you normally would](https://github.com/norman/friendly_id#rails-quickstart).
+Just by including this gem and using FriendlyId [like you normally would](https://github.com/FriendlyId/friendly_id#rails-quickstart).
 
 Installation
 ------------
